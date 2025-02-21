@@ -1,6 +1,0 @@
-[23:22, 20/02/2025] +55 41 9177-6744: Cara eu achei o currículo bem cheinho e bem estruturado.
-
-Recomendo na sua seção de Habilidades Técnicas ir mais a fundo nas ferramentas que você usou com cada tecnologia. Além de só "javascript" colocar "javascript com React, Next, Nest...". ao invés de só "java" colocar "java com Spring Boot". Não sei quais frameworks vc já usou mas tenta adicionar techs mais específicas nas skills pq os recrutadores procuram por keyword mesmo
-[23:24, 20/02/2025] +55 41 9177-6744: e veja de reescrever os bulletpoints das suas experiências profissionais. Algumas estão perfeitas mas algumas podem ser um pouco melhores
-[23:24, 20/02/2025] +55 41 9177-6744: https://alumni.opcd.wfu.edu/2019/09/how-to-write-crazy-effective-resume-bullets/
-[23:25, 20/02/2025] +55 41 9177-6744: essa dica do Austin Belcak é maravilhosa
